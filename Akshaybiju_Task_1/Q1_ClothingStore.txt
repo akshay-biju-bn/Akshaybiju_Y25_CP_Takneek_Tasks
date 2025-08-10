@@ -1,0 +1,4 @@
+first give all the XL clothes since it can be converted and given to all the groups of people .
+if XL clothes are left convert it into L and add it to the collection of L clothes.
+now give the L clothes to the respective groups and convert the remaining to S and give it to the S group.
+after the complete process only S clothes will be left.
