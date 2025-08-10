@@ -1,0 +1,2 @@
+if Y is a multiple of X for example X = 1 and Y = 3 the chef would have to stop at two points ie 1 and 2, the next stop would have been at 3 but it is the end point so not considered so number of steps = (Y/X)-1
+when not a multiple it will be (Y/X)
